@@ -1,0 +1,37 @@
+{
+    "name": "VegaSwap Tokens",
+    "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/VEGA.png",
+    "keywords": [
+        "soroschain",
+        "defi",
+        "SOR",
+        "vegaswap"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 2368,
+            "address": "0x45b3a19f2604Fd20cC49648FEFACe38a79B23DA9",
+            "decimals": 18,
+            "name": "VegaSwap Token",
+            "symbol": "VEGA",
+            "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/VEGA.png"
+        },
+        {
+            "chainId": 2368,
+            "address": "0xedaAb71370d1DaA3B34e64db4bd78BBaF877D669",
+            "decimals": 18,
+            "name": "Wrapped Soros",
+            "symbol": "WSOR",
+            "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/addresses/0xedaAb71370d1DaA3B34e64db4bd78BBaF877D669/logo.png"
+        }
+
+
+
+    ],
+    "timestamp": "2023-04-13T12:00:00+00:00"
+}
