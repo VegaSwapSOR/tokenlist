@@ -28,6 +28,14 @@
             "name": "Wrapped Soros",
             "symbol": "WSOR",
             "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/addresses/0xedaAb71370d1DaA3B34e64db4bd78BBaF877D669/logo.png"
+        },
+        {
+            "chainId": 2368,
+            "address": "0x26140Fe1D2c541552d79380d848Ff6c2F2975EE4",
+            "decimals": 18,
+            "name": "XOROX",
+            "symbol": "XSRS",
+            "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/addresses/0x26140Fe1D2c541552d79380d848Ff6c2F2975EE4/logo.png"
         }
 
 
