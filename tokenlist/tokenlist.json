@@ -15,9 +15,9 @@
     "tokens": [
         {
             "chainId": 2368,
-            "address": "0x45b3a19f2604Fd20cC49648FEFACe38a79B23DA9",
+            "address": "0x82646B1D4Ae3a808721cc4bc02A7AC723a6672bA",
             "decimals": 18,
-            "name": "VegaSwap Token",
+            "name": "Vega",
             "symbol": "VEGA",
             "logoURI": "https://raw.githubusercontent.com/VegaSwapSOR/tokenlist/main/token/VEGA.png"
         },
